@@ -1,0 +1,13 @@
+#no log files
+*.log
+# but do error.log
+!error.log
+
+#
+/TODO
+
+#
+build/
+
+#
+doc/**/*.pdf
